@@ -91,4 +91,5 @@ When I'm not coding or designing, I enjoy exploring creativity through art, gami
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokerwow&" alt="Gokerwow" /></p>
 
+<img src="https://raw.githubusercontent.com/Gokerwow/Gokerwow/output/snake.svg" alt="Snake animation" />
 ###
