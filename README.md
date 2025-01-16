@@ -42,8 +42,8 @@ I am diving deep into **JavaScript**, **CSS**, and **HTML** to strengthen my fou
 For me, technology is more than just code—it's a tool for solving problems, innovating ideas, and connecting people. I am constantly inspired by how technology evolves and provides endless opportunities to make an impact.  
 
 ### 📫 Let’s Connect and Collaborate!  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Email:** [Your Email Address]  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/brillian-maulana-10a2311bb/">Brillian Maulana Syah</a> 
+- **Email:** brilliansyah00@gmail.com  
 I am always open to connecting with fellow learners, experienced professionals, or anyone interested in tech and design.  
 
 ### 🎯 What Drives Me:  
