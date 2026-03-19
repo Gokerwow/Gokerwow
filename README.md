@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">💻 **Aspiring Web Developer | Mobile Developer | 3D Modeler**  
+### 💻 Aspiring Web Developer | Mobile Developer | 3D Modeler
 
 🌟 I am passionate about creating meaningful digital experiences through technology and design. My journey in tech began with a curiosity to understand how the digital world operates. Now, I am committed to mastering the skills needed to build applications that not only function effectively but also leave a lasting impression.  
 
